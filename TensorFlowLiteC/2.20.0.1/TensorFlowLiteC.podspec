@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.authors          = 'Google Inc.'
   s.license          = { :type => 'Apache', :text => '' }
   s.homepage         = 'https://github.com/tensorflow/tensorflow'
-  s.source           = { :http => "https://rm.dev.uqudo.io/repository/cocoapods-components/org/tensorflow/TensorFlowLiteC/2.20.0.1/TensorFlowLiteC-2.20.0.1.zip", :sha256 => "d822f3afd012f1992a1acbc5ec2c79b4b0080f971d40e988d2de1e871933f305" }
+  s.source           = { :http => "https://rm.dev.uqudo.io/repository/cocoapods-components/org/tensorflow/TensorFlowLiteC/2.20.0.1/TensorFlowLiteC-2.20.0.1.zip", :sha256 => "dc6bc3c05b332e402ec2f2782f82c4757c7517159e30e4c8c8af95f672ee8dbe" }
   s.summary          = 'TensorFlow Lite'
   s.description      = <<-DESC
 
